@@ -1,7 +1,7 @@
 {
-  "name": "understanding-typescript",
+  "name": "typescript-drag-and-drop",
   "version": "1.0.0",
-  "description": "Understanding TypeScript Course Setup",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,10 +10,9 @@
     "build-prod": "webpack --config webpack.config.prod.js"
   },
   "keywords": [
-    "typescript",
-    "course"
+    "typescript"
   ],
-  "author": "Maximilian Schwarzmüller",
+  "author": "Brant",
   "license": "ISC",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
